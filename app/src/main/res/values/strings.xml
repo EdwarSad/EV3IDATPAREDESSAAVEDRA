@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EC3</string>
+    <string name="user_string">Ingrese Usuario :</string>
+    <string name="pas_string">Ingrese Password :</string>
+    <string name="boton">Registrar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
